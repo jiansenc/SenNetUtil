@@ -1,0 +1,82 @@
+{
+	"_启动窗口":{
+		"宽度":"1625",
+		"高度":"689",
+		"分组框_列表区":{
+			"宽度":"950",
+			"高度":"522"
+		}
+	},
+	"ScriptCode":"cGFja2FnZSBtYWluDQoNCi8v5LuF5YWB6K645L2\/55So5a6Y5pa55YyFDQppbXBvcnQgKA0KCSJieXRlcyINCgkic3RyaW5ncyINCikNCg0KLyoNCiAgIOS9oOWPr+S7peWPs+mUru+8jOWRveS7pOmdouadv++8iOaIlkYx5b+r5o236ZSu77yJLOafpeeci+aooeadv+aWh+S7tizmiJbmgaLlpI3liLDpu5jorqTku6PnoIENCiAgIOW9k+aCqOS\/ruaUueWujOaIkOWQjizlj7PplK7mtYvor5Xkv53lrZjljbPlj68NCiovDQoNCi8vIOiEmuacrOWbnuiwg+S6i+S7tiAtPiBIVFRQIOWPkei1t+ivt+axguOAgUhUVFAg5ZON5bqU6K+35rGC44CBSFRUUCDor7fmsYLplJnor68NCmZ1bmMgRXZlbnRfSFRUUChDb25uIEhUVFBFdmVudCkgew0KCWlmIENvbm4uVHlwZSgpID09IDEgew0KCQkvL+WPkemAgeivt+axgg0KCQlyZXR1cm4NCgl9DQoJaWYgQ29ubi5UeXBlKCkgPT0gMiB7DQoJCS8v5o6l5pS25Yiw5ZON5bqUDQoJCXJldHVybg0KCX0NCglpZiBDb25uLlR5cGUoKSA9PSAzIHsNCgkJLy\/or7fmsYLlpLHotKUNCgkJcmV0dXJuDQoJfQ0KfQ0KDQovLyBXZWJTb2NrZXTlm57osIPkuovku7YgLT4g5Y+R6YCB5raI5oGv44CB5pS25Yiw5raI5oGv44CB6L+e5o6l5oiQ5Yqf44CB6L+e5o6l5pat5byADQpmdW5jIEV2ZW50X1dlYlNvY2tldChDb25uIFdlYlNvY2tldEV2ZW50KSB7DQoJaWYgQ29ubi5UeXBlKCkgPT0gMSB7DQoJCS8v6L+e5o6l5oiQ5YqfDQoJCXJldHVybg0KCX0NCglpZiBDb25uLlR5cGUoKSA9PSAyIHsNCgkJLy\/lrqLmiLfnq6\/lj5HpgIHmlbDmja4NCgkJcmV0dXJuDQoJfQ0KCWlmIENvbm4uVHlwZSgpID09IDMgew0KCQkvL+WuouaIt+err+aUtuWIsOaVsOaNrg0KCQlyZXR1cm4NCgl9DQoJaWYgQ29ubi5UeXBlKCkgPT0gNCB7DQoJCS8v6L+e5o6l5YWz6ZetDQoJCXJldHVybg0KCX0NCn0NCg0KLy8gdGNw5Zue6LCD5LqL5Lu2IC0+IOWNs+Wwhui\/nuaOpeOAgeWPkemAgea2iOaBr+OAgeaUtuWIsOa2iOaBr+OAgei\/nuaOpeaIkOWKn+OAgei\/nuaOpeaWreW8gA0KZnVuYyBFdmVudF9UQ1AoQ29ubiBUQ1BFdmVudCkgew0KCWlmIENvbm4uVHlwZSgpID09IDQgew0KCQkvL+WNs+WwhuW8gOWni+i\/nuaOpQ0KCQlyZXR1cm4NCgl9DQoJaWYgQ29ubi5UeXBlKCkgPT0gMCB7DQoJCS8v6L+e5o6l5oiQ5YqfDQoJCXJldHVybg0KCX0NCglpZiBDb25uLlR5cGUoKSA9PSAxIHsNCgkJLy\/lrqLmiLfnq6\/lj5HpgIHmlbDmja4NCgkJcmV0dXJuDQoJfQ0KCWlmIENvbm4uVHlwZSgpID09IDIgew0KCQkvL+WuouaIt+err+aUtuWIsOaVsOaNrg0KCQlyZXR1cm4NCgl9DQoJaWYgQ29ubi5UeXBlKCkgPT0gMyB7DQoJCS8v6L+e5o6l5YWz6Zet5oiW6L+e5o6l5aSx6LSlDQoJCXJldHVybg0KCX0NCn0NCg0KLy8gdWRw5Zue6LCD5LqL5Lu2IC0+IOWPkemAgea2iOaBr+OAgeaUtuWIsOa2iOaBr+OAgei\/nuaOpeaWreW8gA0KZnVuYyBFdmVudF9VRFAoQ29ubiBVRFBFdmVudCkgew0KCWlmIENvbm4uVHlwZSgpID09IDEgew0KCQkvL+i\/nuaOpeWFs+mXrQ0KCQlyZXR1cm4NCgl9DQoJaWYgQ29ubi5UeXBlKCkgPT0gMiB7DQoJCS8v5a6i5oi356uv5pS25Yiw5pWw5o2uDQoJCXJldHVybg0KCX0NCglpZiBDb25uLlR5cGUoKSA9PSAzIHsNCgkJLy\/mlLbliLDmlbDmja4NCgkJcmV0dXJuDQoJfQ0KfQ0K",
+	"IsSendHTTP1":"h2",
+	"DNS使用":"1",
+	"DNS远程":"223.5.5.5:853",
+	"IE":"true",
+	"ProxyList":[{
+			"url":"socket:\/\/192.168.1.1:8888",
+			"state":"禁用",
+			"info":"S5 代理示例：无账号密码"
+		},{
+			"url":"socket:\/\/admin:123456@192.168.1.1:8888",
+			"state":"禁用",
+			"info":"S5 代理示例：账号:admin 密码:123456"
+		},{
+			"url":"http:\/\/192.168.1.1:8888",
+			"state":"禁用",
+			"info":"http 代理示例：无账号密码"
+		},{
+			"url":"http:\/\/admin:123456@192.168.1.1:8888",
+			"state":"禁用",
+			"info":"http 代理示例：账号:admin 密码:123456"
+		}],
+	"MustTcp":"false",
+	"tcpRulesAllow":"false",
+	"mustTcpRules":"*.test.com; test.com",
+	"NoShowTcp":"false",
+	"NoShowudp":"false",
+	"stop_UDP":"false",
+	"stop_TCP":"false",
+	"randomTls":"false",
+	"NoShowHttp":"false",
+	"NoShowWS":"false",
+	"If-None-Match":"true",
+	"RunPort":"2025",
+	"authUpdate":"true",
+	"NoRequestErr":"true",
+	"CustomHosts":"",
+	"Regexp":"",
+	"H2Config":"",
+	"RouterIP":"系统选择",
+	"CacheSys":"Redis",
+	"reqSize":"1024000",
+	"超级列表框_列表区":{
+		"列宽":{
+			"1":"50",
+			"2":"50",
+			"3":"50",
+			"4":"50",
+			"5":"150",
+			"6":"100",
+			"7":"100",
+			"8":"60",
+			"9":"50",
+			"10":"102",
+			"11":"120",
+			"12":"200"
+		}
+	},
+	"超级列表框_URL参数列表区":{
+		"列宽":{
+			"1":"50",
+			"2":"200"
+		}
+	},
+	"超级列表框_POST参数列表区":{
+		"列宽":{
+			"1":"50",
+			"2":"200"
+		}
+	},
+	"ScriptPage":"SunnyNetScriptEdit",
+	"replace":null
+}
