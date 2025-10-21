@@ -31,7 +31,7 @@
           </div>
         </div>
 
-        <el-tabs v-model="activeTab" class="custom-tabs">
+        <el-tabs @tab-click="onChange" v-model="activeTab" class="custom-tabs">
           <el-tab-pane label="详细信息" name="details">
             <div class="data-container">
               <el-collapse v-model="activeCollapses">
@@ -115,8 +115,19 @@ const props = defineProps({
   }
 });
 
-const activeTab = ref('details');
+
+
+
+const tb = window.localStorage.getItem('viewDataActiveTab');
+const activeTab = ref(tb || 'details');
 const activeCollapses = ref(['general', 'request-headers', 'response-headers']);
+
+
+function onChange(tab) {
+  nextTick(() => {
+    window.localStorage.setItem('viewDataActiveTab', activeTab.value);
+  });
+}
 
 const copyStatus = reactive({
   reqHead: false,

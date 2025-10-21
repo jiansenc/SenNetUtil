@@ -594,7 +594,7 @@ onMounted(() => {
   // 监听webview消息
   chrome?.webview?.addEventListener('message', (event) => {
     const { data: e } = event;
-    console.log('message', e)
+    // console.log('message', e)
     switch (e._message_type_) {
       case 'http':
         // 处理接收到的数据
